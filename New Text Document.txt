@@ -1,0 +1,6 @@
+walls collision 
+losing screen
+ingame pause
+hightscore stuff
+menu
+graphics
